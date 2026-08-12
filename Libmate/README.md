@@ -1,12 +1,12 @@
 # LibMate 2.0 — Complete Documentation
 
-## Welcome 👋
+## Welcome 
 
 I built LibMate 2.0 as a comprehensive book-sharing platform for my SDGP project. It's a full-stack application with a Flask backend API, a React web application for desktop users, and a React Native mobile app. This README covers everything about the project and how all the pieces fit together.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Quick Start](#quick-start)
@@ -717,6 +717,6 @@ If you run into issues:
 
 ---
 
-**Thanks for checking out my LibMate project! 🚀**
+**Thanks for checking out my LibMate project! **
 
 Feel free to reach out if you have any questions!
